@@ -1,0 +1,11 @@
+c:\users\dominik\documents\visual studio 2015\Projects\Third_project\Third_project\bin\Debug\Third_project.exe.config
+c:\users\dominik\documents\visual studio 2015\Projects\Third_project\Third_project\bin\Debug\Third_project.exe
+c:\users\dominik\documents\visual studio 2015\Projects\Third_project\Third_project\bin\Debug\Third_project.pdb
+c:\users\dominik\documents\visual studio 2015\Projects\Third_project\Third_project\obj\Debug\Third_project.exe
+c:\users\dominik\documents\visual studio 2015\Projects\Third_project\Third_project\obj\Debug\Third_project.pdb
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\Delta\Third_project\bin\Debug\Third_project.exe.config
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\Delta\Third_project\obj\Debug\Third_project.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\Delta\Third_project\obj\Debug\Third_project.pdb
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\Delta\Third_project\bin\Debug\Third_project.exe
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\Delta\Third_project\bin\Debug\Third_project.pdb
+C:\Users\Dominik\Documents\Visual Studio 2015\Projects\Delta\Third_project\obj\Debug\Third_project.csprojResolveAssemblyReference.cache
